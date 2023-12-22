@@ -17,7 +17,7 @@ Minha meta é aprimorar meus conhecimentos e concluir os cursos relacionados a:
 - ASP.NET
 - SQL Server
 - SQL
-- Visual Studio
+- Visual Basic
 - .NET em geral
 
 Sim, são muitas coisas, mas estou determinado! 😅
