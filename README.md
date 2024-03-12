@@ -1,5 +1,3 @@
-## Olá!! me chamo Yuri Alves, sou um entusiasta em Tecnologia, focado em Desenvolvimento.
-
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yclemente1357&show_icons=true&theme=holi" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yclemente1357&theme=holi&layout=compact" />
