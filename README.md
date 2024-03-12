@@ -15,7 +15,7 @@
  
 <div> 
   <a href="https://instagram.com/yuri_alves135" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="[https://discord.gg/wagxzStdcR](https://www.facebook.com/yuri.alves.505523?mibextid=rS40aB7S9Ucbxw6v)" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
+ <a href="https://www.facebook.com/yuri.alves.505523?mibextid=rS40aB7S9Ucbxw6v" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
   <a href = "mailto:yclemente2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yuri-alves-clemente?" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
